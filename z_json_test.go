@@ -17,7 +17,7 @@ import (
 	"testing"
 	"time"
 
-	godror "github.com/godror/godror"
+	godror "github.com/devMake-a11y/godror"
 )
 
 // Batch Insert the JSON Formatted string without extended types.

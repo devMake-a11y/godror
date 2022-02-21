@@ -14,8 +14,8 @@ import (
 	"testing"
 	"time"
 
-	godror "github.com/godror/godror"
-	"github.com/godror/godror/dsn"
+	godror "github.com/devMake-a11y/godror"
+	"github.com/devMake-a11y/godror/dsn"
 	"github.com/oklog/ulid/v2"
 	"golang.org/x/sync/errgroup"
 )

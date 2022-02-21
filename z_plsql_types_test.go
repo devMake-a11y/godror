@@ -19,8 +19,8 @@ import (
 	"testing"
 	"time"
 
-	godror "github.com/godror/godror"
-	"github.com/google/go-cmp/cmp"
+	godror "github.com/devMake-a11y/godror"
+	"github.com/devMake-a11y/go-cmp/cmp"
 	"golang.org/x/sync/errgroup"
 )
 

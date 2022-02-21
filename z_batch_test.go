@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	godror "github.com/godror/godror"
+	godror "github.com/devMake-a11y/godror"
 )
 
 func TestBatch(t *testing.T) {

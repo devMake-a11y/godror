@@ -20,8 +20,8 @@ import (
 	"time"
 	"unicode/utf8"
 
-	godror "github.com/godror/godror"
-	"github.com/godror/godror/dsn"
+	godror "github.com/devMake-a11y/godror"
+	"github.com/devMake-a11y/godror/dsn"
 	"github.com/google/go-cmp/cmp"
 )
 
