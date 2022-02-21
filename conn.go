@@ -29,7 +29,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/godror/godror/dsn"
+	"github.com/devMake-a11y/godror/dsn"
 )
 
 const getConnection = "--GET_CONNECTION--"
